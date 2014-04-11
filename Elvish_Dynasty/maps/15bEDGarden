@@ -1,0 +1,17 @@
+border_size=1
+usage=map
+
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg^Efm      , Rp          , Gg^Efm      , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg^Fet      , Gg          , Gg          , Gg          , Gg          , Gg          , Gg^Fet      , Rp          , Gg^Fet      , Gg          , Gg          , Gg          , Gg          , Gg          , Gg^Fet      , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg^Fet      , Gg          , Gg          , Gg^Efm      , Rp          , Gg^Efm      , Gg          , Gg          , Gg^Fet      , Gg          , Gg          , Gg          , Gg          
+Gg^Efm      , Gg          , Gg          , Gg          , Ww          , Gg          , Gg          , Gg^Efm      , Rp          , Gg^Efm      , Gg          , Gg          , Ww          , Gg          , Gg          , Gg          , Gg^Efm      
+Rp          , Gg^Fet      , Gg^Efm      , Ww          , Ww          , Ww          , Gg^Efm      , Gg^Fet      , Rp          , Gg^Fet      , Gg^Efm      , Ww          , Ww          , Ww          , Gg^Efm      , Gg^Fet      , Rp          
+Gg^Efm      , Rp          , Rp          , Gg^Efm      , Gg^Fet      , Gg^Efm      , Rp          , Rp          , Ww          , Rp          , Rp          , Gg^Efm      , Gg^Fet      , Gg^Efm      , Rp          , Rp          , Gg^Efm      
+Gg          , Gg^Efm      , Gg^Fet      , Rp          , Rp          , Rp          , Ww          , Ww          , Gg          , Ww          , Ww          , Rp          , Rp          , Rp          , Gg^Fet      , Gg^Efm      , Gg          
+Gg          , Gg          , Rp          , Rp          , Gg^Fet      , Rp          , Rp          , Ww          , Ww          , Ww          , Rp          , Rp          , Gg^Fet      , Rp          , Rp          , Gg^Efm      , Gg^Efm      
+Rp          , Rp          , Gg^Efm      , Gg^Efm      , Ww          , Gg^Efm      , Gg^Efm      , Rp          , Rp          , Rp          , Gg^Efm      , Gg^Efm      , Ww          , Gg^Efm      , Gg^Efm      , Rp          , Rp          
+Gg^Efm      , Gg^Fet      , Gg          , Ww          , Ww          , Ww          , Gg          , Gg^Fet      , Rp          , Gg^Fet      , Gg          , Ww          , Ww          , Ww          , Gg          , Gg^Fet      , Gg^Efm      
+Gg          , Gg          , Gg          , Gg          , Gg^Fet      , Gg          , Gg          , Gg^Efm      , Rp          , Gg^Efm      , Gg          , Gg          , Gg^Fet      , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg^Efm      , Rp          , Gg^Efm      , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg^Fet      , Gg          , 1 Kv        , Gg          , 2 Kv        , Gg          , Gg^Fet      , Rp          , Gg^Fet      , Gg          , Gg          , Gg          , Gg          , Gg          , Gg^Fet      , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg^Efm      , Rp          , Gg^Efm      , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
